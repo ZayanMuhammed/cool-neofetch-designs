@@ -10,15 +10,6 @@ Neofetch is a command-line system information tool written in bash, and this rep
 
 🧩 Terminal UI tweaks and layout arrangements
 
-🖼️ Screenshots for every design
-
-📸 Gallery
-Name	Preview
-Matrix	
-minimal	
-dragon	
-
-📁 See more in the screenshots/ folder!
 
 🛠️ How to Use
 Clone the repo:
