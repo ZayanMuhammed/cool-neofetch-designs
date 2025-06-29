@@ -32,10 +32,13 @@ neofetch
 
 Copy a config:
 
-'''bash
+```bash
 #Copy code
-cp configs/tokyo-night/config.conf ~/.config/neofetch/config.conf
-'''
+cp neofetch/config.conf ~/.config/neofetch/config.conf
+```
+
+run the sh file
+
 
 Run Neofetch:
 
