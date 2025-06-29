@@ -25,8 +25,7 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/you/cool-neofetch
-cd cool-neofetch
-neofetch
+cd neofetch
 ```
 
 
@@ -37,13 +36,20 @@ Copy a config:
 cp neofetch/config.conf ~/.config/neofetch/config.conf
 ```
 
-run the sh file
+run the sh file to change neofetch art:
+
+```bash
+
+sudo ./switch-art
+```
 
 
 Run Neofetch:
 
-bash
-Copy code
+```bash
+
 neofetch
+```
+
 🎉 Enjoy your new terminal look!
 
