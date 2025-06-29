@@ -23,10 +23,12 @@ dragon
 🛠️ How to Use
 Clone the repo:
 
-'''bash
-#Copy code
-git clone https://github.com/ZayanMuhammed/cool-neofetch-designs.git
-'''
+```bash
+git clone https://github.com/you/cool-neofetch
+cd cool-neofetch
+neofetch
+```
+
 
 Copy a config:
 
